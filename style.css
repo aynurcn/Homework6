@@ -1,0 +1,22 @@
+a:hover {
+    color:rgb(193, 65, 225) !important}
+    body {background-color:#E9ECEF}
+.merhaba{
+    color: palevioletred;
+    animation: mymove 5s infinite;
+    animation-name: example;
+
+}
+
+  @keyframes example {
+    from {color: palevioletred;}
+    to {color: purple;}
+  }
+  .back{
+      background-color: rgba(154, 152, 243, 0.445);
+  }
+  .jumbotron{
+    border-radius: 20px;
+    box-shadow: 5px 10px #888888
+
+  }
